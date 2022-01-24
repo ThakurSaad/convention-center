@@ -36,11 +36,16 @@ h2 {
 ul {
     list-style-image: url("/icons/checked.png");
 }
+/* question */
+.accordion-header {
+    margin-top: 0;
+}
 /*-------------- footer  --------------*/
 footer {
     height: 220px;
     padding: 20px 0;
     background-color: black;
+    margin-top: 50px;
 }
 .footer-text p {
     font-size: 12px;

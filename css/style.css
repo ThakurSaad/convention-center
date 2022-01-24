@@ -11,8 +11,8 @@ h2 {
     margin: 100px 0 50px 0;
 }
 /* ------------     header      -------------- */
-.text-color {
-    color: black;
+.carousel-caption .text-color {
+    color: rgba(0, 0, 0, 0.863);
     text-shadow: 0 0 5px white;
     font-weight: 800;
 }

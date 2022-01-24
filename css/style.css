@@ -1,4 +1,18 @@
-/* -----------------
-     google fonts 
- ------------------*/
+/* -----------------     google fonts    ------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+/* ------------------------    general utilities   ------------------------- */
+/* ------------     header      -------------- */
+/* ------------     main      -------------- */
+.card {
+    width: 235px;
+    height: 390px;
+}
+.c-text {
+    font-weight: 500;
+    color: #524e70;
+}
+ul {
+    list-style-image: url("/icons/checked.png");
+}

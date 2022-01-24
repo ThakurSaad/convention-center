@@ -3,6 +3,9 @@
 
 
 /* ------------------------    general utilities   ------------------------- */
+h2 {
+    margin: 100px 0 50px 0;
+}
 /* ------------     header      -------------- */
 /* ------------     main      -------------- */
 .cards-container {
@@ -16,6 +19,11 @@
 .card-highlight {
     width: 295px;
     height: 480px;
+    border-radius: 3rem;
+    background-color: rgba(0, 17, 255, 0.178);
+}
+.card-highlight>.card {
+    background-color: rgba(0, 17, 255, 0);
 }
 .c-text {
     font-weight: 500;

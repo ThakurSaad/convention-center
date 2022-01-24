@@ -10,6 +10,9 @@ body {
 h2 {
     margin: 100px 0 50px 0;
 }
+h5 {
+    font-family: 'Bebas Neue', cursive;
+}
 /* ------------     header      -------------- */
 .carousel-caption .text-color {
     color: rgba(0, 0, 0, 0.863);
@@ -37,6 +40,11 @@ h2 {
 .c-text {
     font-weight: 500;
     color: #524e70;
+}
+.photo-details>.c-text {
+    font-family: 'Lobster', cursive;
+    font-size: 1.1rem;
+    letter-spacing: 2px;
 }
 ul {
     list-style-image: url("/icons/checked.png");

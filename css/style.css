@@ -47,7 +47,6 @@ question
 .accordion-header {
     margin-top: 0;
 }
-
 /* 
 album 
 */
@@ -90,5 +89,10 @@ footer {
         width: 80px;
         height: 20px;
     }
-  
+}
+@media only screen and (min-width:992px) {
+    .album-heading {
+        margin-top: 100px;
+        margin-bottom: 15px;
+    }
 }

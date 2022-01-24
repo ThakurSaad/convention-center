@@ -5,6 +5,10 @@
 /* ------------------------    general utilities   ------------------------- */
 /* ------------     header      -------------- */
 /* ------------     main      -------------- */
+.cards-container {
+    width: 100%;
+    margin: 0 auto;
+}
 .card {
     width: 235px;
     height: 390px;

@@ -45,7 +45,7 @@ ul {
 .accordion-header {
     margin-top: 0;
 }
-/*-------------- footer  --------------*/
+/*--------------     footer     --------------*/
 footer {
     height: 220px;
     padding: 20px 0;
@@ -59,6 +59,7 @@ footer {
     width: 140px;
     height: 40px;
 }
+/*--------------------       media query      ---------------------- */
 @media only screen and (max-width:576px) {
     footer {
         height: 180px;

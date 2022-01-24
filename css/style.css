@@ -13,6 +13,10 @@
     width: 235px;
     height: 390px;
 }
+.card-highlight {
+    width: 295px;
+    height: 480px;
+}
 .c-text {
     font-weight: 500;
     color: #524e70;

@@ -39,12 +39,12 @@ h5 {
 }
 .c-text {
     font-weight: 500;
-    color: #524e70;
 }
 .photo-details>.c-text {
     font-family: 'Lobster', cursive;
     font-size: 1.1rem;
     letter-spacing: 2px;
+    color: #b9b8c5;
 }
 ul {
     list-style-image: url("/icons/checked.png");

@@ -41,9 +41,31 @@ h2 {
 ul {
     list-style-image: url("/icons/checked.png");
 }
-/* question */
+/* 
+question 
+*/
 .accordion-header {
     margin-top: 0;
+}
+
+/* 
+album 
+*/
+.photo-frame {
+    width: 330px;
+}
+.photo-details {
+    width: 200px;
+    display: none;
+}
+.photo-details p {
+    width: 100px;
+    background-color: rgba(0, 0, 0, 0.384);
+    color: white;
+    text-shadow: 0 0 5px black;
+}
+.photo-frame:hover .photo-details {
+    display: block;
 }
 /*--------------     footer     --------------*/
 footer {
